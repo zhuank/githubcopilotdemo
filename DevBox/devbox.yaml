@@ -15,4 +15,3 @@ setupTasks:
     inputs:
       command: 'Set-WinSystemLocale zh-CN'
       runAsUser: true
-has context menu
